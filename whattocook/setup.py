@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='whattocook',
+setup(name='whattocookpackage',
       version='0.1',
       url='https://github.com/bot0108/WhatToCook.git',
       description='WhatToCookProgram',
