@@ -5,7 +5,7 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image
 import requests
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
-from whattocook.cocktail import randomCocktail
+from cocktail import randomCocktail
 
 def pdfer(RecipePic,RecipeTitle,CleanRecipeIngredients,CleanRecipeSteps):
     #region Description

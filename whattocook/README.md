@@ -13,6 +13,30 @@ Functionalities include the followings:
 -a course specific random recipe, 
 -and one that does all of the above.
 
+##Structure
+|- whattocook
+    |-whattocook
+        |-__init__.py
+        |-cocktail.py
+        |-combined.py
+        |-courseSpecific.py
+        |-pd2.py
+        |-scraper.py
+        |-seasonal.py
+        |-simple.py
+    |-demo.ipynb
+    |-LICENSE
+    |-README.md
+    |-setup.py
+    |-WhatToCookBanner
+
+##Used API's
+
+Cocktail API : https://cocktails3.p.rapidapi.com/random
+Month API: http://worldtimeapi.org/api/ip
+
+
+
 ##Usage
 
 ###cocktail.py

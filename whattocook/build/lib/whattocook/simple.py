@@ -1,14 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
 import random
-from whattocook.pd2 import pdfer
+from pd2 import pdfer
 
 def recipeScraper():
     #region Description
     """
     This function accesses a random chilean recipe an scrapes the title,image,ingredients and preparation.
     Parameters: None
-    Returns: None
+    Returns: Whole recipe
 
     """
     #endregion

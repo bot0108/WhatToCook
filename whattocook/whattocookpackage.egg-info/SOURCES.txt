@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+whattocook/__init__.py
+whattocook/cocktail.py
+whattocook/combined.py
+whattocook/courseSpecific.py
+whattocook/pd2.py
+whattocook/scraper.py
+whattocook/seasonal.py
+whattocook/simple.py
+whattocookpackage.egg-info/PKG-INFO
+whattocookpackage.egg-info/SOURCES.txt
+whattocookpackage.egg-info/dependency_links.txt
+whattocookpackage.egg-info/requires.txt
+whattocookpackage.egg-info/top_level.txt

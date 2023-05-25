@@ -1,8 +1,8 @@
 import requests
 import random
 from bs4 import BeautifulSoup
-from whattocook.pd2 import pdfer
-from whattocook.seasonal import month
+from pd2 import pdfer
+from seasonal import month
 
 def special(course):
         #region Description

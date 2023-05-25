@@ -2,7 +2,7 @@ import requests
 import random
 from bs4 import BeautifulSoup
 from datetime import datetime
-from whattocook.pd2 import pdfer
+from pd2 import pdfer
 
 def month():
     #region Description

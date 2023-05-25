@@ -1,7 +1,7 @@
 import requests
 import random
 from bs4 import BeautifulSoup
-from whattocook.pd2 import pdfer
+from pd2 import pdfer
 
 def chileanMenu(course):
     #region Description
