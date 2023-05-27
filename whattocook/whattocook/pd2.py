@@ -67,7 +67,7 @@ def pdfer(RecipePic,RecipeTitle,CleanRecipeIngredients,CleanRecipeSteps):
 
     # Get the data from the coctail API
     cocktailName, cocktailIngre = randomCocktail()
-
+    
     EditedCoctailName = Paragraph(cocktailName.capitalize(), text_style)
     content.append(EditedCoctailName)
 
